@@ -17,3 +17,12 @@ select {
     -moz-appearance: none;
     appearance: none;
 }
+
+/* 댓글 스타일 지정 */
+.card-body {
+    background: #B3AD7B;
+    border: solid 1px;
+}
+.card-subtitle {
+    color: blue;
+}
